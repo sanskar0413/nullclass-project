@@ -37,9 +37,10 @@ This project presents a Python-based interactive dashboard for analyzing Google 
 
 ## Setup Instructions
 
-1. Clone the repository:
+Clone the repository:
    ```bash
-   git clone https://github.com/sanskar0413/nullclass-project.git
+git clone https://github.com/sanskar0413/nullclass-project.git
+```
 Navigate to the project folder:
    ```bash
 cd nullclass-project
