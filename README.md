@@ -1,5 +1,5 @@
 # Nullclass-project
-#Google Play store data analytics - python
+# Google Play store data analytics - python
 
 This project presents a Python-based interactive dashboard for analyzing Google Play Store apps using advanced data visualization techniques. It features multiple visualizations, each tailored with custom filters and strict time constraints for display.
 
