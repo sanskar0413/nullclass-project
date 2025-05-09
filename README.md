@@ -41,8 +41,15 @@ This project presents a Python-based interactive dashboard for analyzing Google 
    ```bash
    git clone https://github.com/sanskar0413/nullclass-project.git
 Navigate to the project folder:
+   ```bash
 cd nullclass-project
+   ```
 Install dependencies:
+ ```bash
 pip install -r requirements.txt
+```
+
 Run the dashboard:
+ ```bash
 python dashboard_gui.py
+```
